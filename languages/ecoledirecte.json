@@ -1,0 +1,14 @@
+{
+    "NO_LOGIN": "**Veuillez vous connecter en utilisant `{{prefix}}login` pour utiliser le bot !**",
+    "TITLE_LOGIN": "Connexion a votre compte EcoleDirecte",
+    "FIRST_LOGIN": ":one: Nom d'utilisateur",
+    "SECOND_LOGIN": ":two: Mot de passe",
+    "THIRD_LOGIN": ":three: Se souvenir de moi",
+    "ENTER_PASSWORD": "Entrez votre mot de passe",
+    "ENTER_USERNAME": "Entrez votre nom d'utilisateur",
+    "FOOTER_LOGIN": "Appuyez sur ✅ pour confirmer",
+    "INSTRUCTION_ONE_LOGIN": "**Veuillez marquer votre nom d'utilisateur.**",
+    "INSTRUCTION_TWO_LOGIN": "**Veuillez marquer votre mot de passe.**",
+    "CONNECTED_LOGIN": "Connecté en tant que **{{prenom}} {{nom}}**",
+    "ERROR_LOGIN": "**Identifiant et/ou mot de passe invalide !**"
+}
